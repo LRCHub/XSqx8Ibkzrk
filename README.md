@@ -1,0 +1,63 @@
+# Ricky Montgomery – Line Without a Hook
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.74] I don't really give a damn about the way you touch me
+[00:03.49] When we're alone
+[00:05.59] You can hold my hand if no one's home
+[00:09.45] Do you like it when I'm away?
+[00:13.04] If I went and hurt my body
+[00:14.21] Baby, would you love me the same?
+[00:30.71] 
+[00:16.23] I can feel all my bones coming back, and I'm craving motion
+[00:21.46] Mama never really learned how to live by herself
+[00:24.75] It's a curse, and it's growing
+[00:28.25] You're a pond and I'm an ocean, oh
+[00:45.25] 
+[00:32.71] All my emotions feel like explosions when you are around
+[00:41.66] And I've found a way to kill the sound, oh
+[01:02.66] 
+[00:48.10] Oh, baby, I am a wreck when I'm without you
+[00:53.29] I need you here to stay
+[00:56.06] I broke all my bones that day I found you
+[01:00.98] Crying at the lake
+[01:03.47] Was it something I said to make you feel like you're a burden?
+[01:09.73] Oh, and if I could take it all back
+[01:13.12] I swear that I would pull you from the tide
+[01:34.62] 
+[01:23.87] Oh, whoa, whoa, whoa!
+[01:25.36] I said no (I said no), I said no (I said no)
+[01:29.04] Listen close, it's a no
+[01:33.06] The wind is a-pounding on my back
+[01:36.61] And I've found hope in a heart attack
+[01:40.56] Oh, at last, it is past
+[01:44.28] Now I've got it, and you can't have it
+[02:03.28] 
+[01:48.86] Baby, I am a wreck when I'm without you
+[01:53.85] I need you here to stay
+[01:56.83] I broke all my bones that day I found you
+[02:01.64] Crying at the lake
+[02:04.10] Was it something I said to make you feel like you're a burden?
+[02:10.38] Oh, and if I could take it all back
+[02:13.64] I swear that I would pull you from the tide
+[02:35.14] 
+[02:26.49] Darling, when I'm fast asleep
+[02:29.83] I've seen this person watching me
+[02:33.28] Saying, "Is it worth it? Is it worth it?
+[02:37.71] Tell me, is it worth it?", Oh
+[02:52.21] 
+[02:55.86] 'Cause there is something and there is nothing
+[02:59.55] There is nothing in between
+[03:03.26] And in my eyes, there is a tiny dancer watching over me
+[03:10.72] He's singing, "She's a, she's a lady, and I am just a boy"
+[03:18.45] He's singing, "She's a, she's a lady, and I am just a line without a-"
+[03:53.45] 
+[03:27.03] Oh, baby, I am a wreck when I'm without you
+[03:32.52] I need you here to stay
+[03:35.74] Broke all my bones that day I found you
+[03:40.30] Crying at the lake
+[03:42.20] Oh, was it something I said to make you feel like you're a burden?
+[03:48.91] Oh, and if I could take it all back
+[03:52.32] I swear that I would pull you from the tide
+```
