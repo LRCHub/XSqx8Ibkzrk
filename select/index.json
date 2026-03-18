@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "base_track": "Line Without a Hook",
+  "base_artist": "Ricky Montgomery",
+  "createdAt": "2026-03-18T07:35:15.601841Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Line Without a Hook",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/01_Line_Without_a_Hook_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Line Without a Hook",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/02_Line_Without_a_Hook_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Line Without a Hook",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/03_Line_Without_a_Hook_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Line Without a Hook",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/04_Line_Without_a_Hook_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Line Without a Hook (slow)",
+      "artist": "Ricky Montgomery",
+      "has_synced": false,
+      "path": "select/05_Line_Without_a_Hook_(slow)_Ricky_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Line Without a Hook",
+      "artist": "Karlo Gutierrez",
+      "has_synced": false,
+      "path": "select/06_Line_Without_a_Hook_Karlo_Gutierrez.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Line Without Hook (a Look Without Eyes)",
+      "artist": "WEAN",
+      "has_synced": false,
+      "path": "select/07_A_Line_Without_Hook_(a_Look_Without_Eyes)_WEAN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Line Without Hook (a Look Without Eyes)",
+      "artist": "Naomi",
+      "has_synced": false,
+      "path": "select/08_A_Line_Without_Hook_(a_Look_Without_Eyes)_Naomi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Line Without Hook (a Look Without Eyes)",
+      "artist": "NAOMI; Wean",
+      "has_synced": false,
+      "path": "select/09_A_Line_Without_Hook_(a_Look_Without_Eyes)_NAOMI;_Wean.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Line Without a Hook",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/localdb_01_Line_Without_a_Hook_Ricky_Montgomery.lrc",
+      "repo_name": "vfnAYipqj1k"
+    }
+  ]
+}
